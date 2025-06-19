@@ -274,3 +274,29 @@ html {
     margin: 0 auto;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 }
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 15px;
+    }
+
+    .logo {
+        font-size: 22px;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    nav {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    nav a {
+        font-size: 18px;
+        margin-left: 0;
+        color: #333;
+    }
+}
