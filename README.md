@@ -14,7 +14,7 @@ Check out the live demo: [🔗 Live Site](https://kathir2911.github.io/Bakery_we
 
 ## 🖼️ Screenshots
 
-![Front HTML Code](index.png)
+![Front HTML Code](images/index.png)
 
 *Beautiful frontend showcasing the bakery's offerings with smooth navigation and responsive design*
 
